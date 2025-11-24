@@ -3,7 +3,7 @@
 Welcome to my cybersecurity portfolio. This repository contains projects, labs, tools, and documentation from my journey into cybersecurity starting from the Google Cyber Security Course.
 
 ## 🔐 About Me
-• IT Diploma Student
+• Year 13 IT Diploma Student  
 • Aspiring Cybersecurity Apprentice  
 • Experience with SIEM tools, Linux, Python, SQL  
 • Interest in penetration testing, network security, and digital forensics  
