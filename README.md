@@ -38,6 +38,3 @@ Scripts for:
 ### 6. Incident Response
 • Incident handler journal  
 • Incident documentation walkthroughs  
-
-### 7. Resume
-Latest version of my cybersecurity-focused resume (PDF).
